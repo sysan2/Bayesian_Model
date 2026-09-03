@@ -1,0 +1,236 @@
+net
+{
+     node_size = (0 0);
+     name = "New BN";
+     tree = "(C1,C2,C3,C4,C5,C6,C7,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19)";
+     UnBBayes_Color_Probabilistic_Description = "-256";
+     UnBBayes_Color_Probabilistic_Explanation = "-16711936";
+}
+
+node Disconnect_Target_UE
+{
+     label = "C1";
+     position = (66 24);
+     states = ("True" "False");
+}
+
+node Release_Old_Connection
+{
+     label = "C2";
+     position = (67 116);
+     states = ("True" "False");
+}
+
+node Fake_New_Attach_Request
+{
+     label = "C3";
+     position = (66 221);
+     states = ("True" "False");
+}
+
+node User_Identity_Theft
+{
+     label = "C4";
+     position = (66 349);
+     states = ("True" "False");
+}
+
+node DoS_Attack
+{
+     label = "C5";
+     position = (262 33);
+     states = ("True" "False");
+}
+
+node System_Overload
+{
+     label = "C6";
+     position = (256 137);
+     states = ("True" "False");
+}
+
+node BS_Resource_Depletion_Attack
+{
+     label = "C7";
+     position = (504 29);
+     states = ("True" "False");
+}
+
+node Unusual_Message_Sequence
+{
+     label = "C9";
+     position = (75 478);
+     states = ("True" "False");
+}
+
+node Attacker_in_the_middle
+{
+     label = "C10";
+     position = (258 480);
+     states = ("True" "False");
+}
+
+node Subscriber_to_BS_data_Encryption
+{
+     label = "C11";
+     position = (249 350);
+     states = ("Encrypted" "Not_Encrypted");
+}
+
+node Subscriber_Type
+{
+     label = "C12";
+     position = (255 281);
+     states = ("Legitimate" "Malicious");
+}
+
+node Connection_Establishmen_Request
+{
+     label = "C13";
+     position = (436 285);
+     states = ("Single_request" "Massive_request");
+}
+
+node Register_and_authentication
+{
+     label = "C14";
+     position = (637 194);
+     states = ("True" "False");
+}
+
+node Security_Setup_Completion
+{
+     label = "C15";
+     position = (642 337);
+     states = ("True" "False");
+}
+
+node Secure_Data_Transfer
+{
+     label = "C16";
+     position = (635 461);
+     states = ("True" "False");
+}
+
+node Number_of_Setup_Request
+{
+     label = "C17";
+     position = (400 202);
+     states = ("High_Request" "Low_Request");
+}
+
+node Time_of_day
+{
+     label = "C18";
+     position = (504 113);
+     states = ("Busy_hours" "Rest_of_the_day");
+}
+
+potential (Disconnect_Target_UE | Release_Old_Connection)
+{
+ data = (( 0.99 0.01 )
+( 0.0 1.0 ));
+}
+
+potential (Release_Old_Connection | Fake_New_Attach_Request)
+{
+ data = (( 0.78 0.22 )
+( 0.1 0.9 ));
+}
+
+potential (Fake_New_Attach_Request | User_Identity_Theft)
+{
+ data = (( 0.8 0.2 )
+( 0.03 0.97 ));
+}
+
+potential (User_Identity_Theft | Attacker_in_the_middle)
+{
+ data = (( 0.89 0.11 )
+( 0.2 0.8 ));
+}
+
+potential (DoS_Attack | System_Overload)
+{
+ data = (( 0.99 0.01 )
+( 0.0 1.0 ));
+}
+
+potential (System_Overload | Time_of_day Number_of_Setup_Request)
+{
+ data = ((( 0.8 0.2 )
+( 0.1 0.9 ))
+(( 0.99 0.01 )
+( 0.05 0.95 )));
+}
+
+potential (BS_Resource_Depletion_Attack | System_Overload DoS_Attack)
+{
+ data = ((( 0.999 0.001 )
+( 0.8 0.2 ))
+(( 0.89 0.11 )
+( 0.1 0.9 )));
+}
+
+potential (Unusual_Message_Sequence | Attacker_in_the_middle User_Identity_Theft)
+{
+ data = ((( 0.999 0.001 )
+( 0.8 0.2 ))
+(( 0.9 0.1 )
+( 0.15 0.85 )));
+}
+
+potential (Attacker_in_the_middle | Subscriber_to_BS_data_Encryption)
+{
+ data = (( 0.1 0.9 )
+( 0.7 0.3 ));
+}
+
+potential (Subscriber_to_BS_data_Encryption | Security_Setup_Completion)
+{
+ data = (( 0.7 0.3 )
+( 0.1 0.9 ));
+}
+
+potential (Subscriber_Type)
+{
+ data = ( 0.8 0.2 );
+}
+
+potential (Connection_Establishmen_Request | Subscriber_Type)
+{
+ data = (( 0.99 0.01 )
+( 0.0 1.0 ));
+}
+
+potential (Register_and_authentication | Connection_Establishmen_Request)
+{
+ data = (( 0.98 0.02 )
+( 0.0 1.0 ));
+}
+
+potential (Security_Setup_Completion | Register_and_authentication)
+{
+ data = (( 0.7 0.3 )
+( 0.2 0.8 ));
+}
+
+potential (Secure_Data_Transfer | Security_Setup_Completion)
+{
+ data = (( 0.99 0.01 )
+( 0.1 0.9 ));
+}
+
+potential (Number_of_Setup_Request | Time_of_day Register_and_authentication)
+{
+ data = ((( 0.7 0.3 )
+( 0.8 0.2 ))
+(( 0.2 0.8 )
+( 1.0 0.0 )));
+}
+
+potential (Time_of_day)
+{
+ data = ( 0.4 0.6 );
+}
+

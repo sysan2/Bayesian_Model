@@ -1,0 +1,155 @@
+rnti ts msg Attackornot
+0 0.2950613498687744 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+1 0.29860758781433105 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+2 0.30687451362609863 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+3 0.3760368824005127 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+4 0.41629862785339355 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+5 0.364194393157959 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+6 0.35615015029907227 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+7 0.356109619140625 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+8 0.3559603691101074 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+9 0.36791443824768066 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+10 0.43186521530151367 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+11 0.37175869941711426 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+12 0.4197523593902588 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+13 0.06140708923339844 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Registrationreject" Benign
+14 0.5630888938903809 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand" Benign
+15 0.5336451530456543 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand" Benign
+16 0.4818003177642822 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+17 0.40574026107788086 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+18 0.3616650104522705 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+19 0.313723087310791 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+20 0.3734884262084961 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+21 0.4132804870605469 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+22 0.6251893043518066 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+23 0.5012705326080322 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+24 0.2951381206512451 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+25 0.2953495979309082 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+26 2.0304083824157715 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+27 0.6243767738342285 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest" Benign
+28 2.160414457321167 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Identityrequest, Identityresponse, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+29 2.074319839477539 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Identityrequest, Identityresponse, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+30 0.6547534465789795 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest" Benign
+31 0.7757656574249268 "RRCSetupRequest, RRCSetup, RRCSetupComplete, DeregistrationrequestUEoriginating" Benign
+32 2.0147764682769775 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Identityrequest, Identityresponse, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+33 2.0847549438476562 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Identityrequest, Identityresponse, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+34 0.755748987197876 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest" Benign
+35 0.0 RRCSetupRequest Benign
+36 0.2956266403198242 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+37 24.928569316864014 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Registrationreject, ULInformationTransfer" Benign
+38 0.3640785217285156 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+39 0.3682732582092285 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+40 0.3721935749053955 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+41 0.40021586418151855 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+42 0.39209508895874023 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+43 0.5440969467163086 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+44 0.38798069953918457 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+45 0.3879966735839844 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+46 0.3758885860443115 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+47 0.3638038635253906 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+48 0.3953671455383301 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+49 0.3556249141693115 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+50 0.36748814582824707 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+51 0.36348724365234375 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+52 0.3553345203399658 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+53 10.285082578659058 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, LoggedMeasurementConfiguration-r16, RRCReconfigurationComplete, MeasurementReport, MobilityFromNRCommand, ULInformationTransfer" Benign
+54 0.4992258548736572 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+55 0.40318799018859863 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+56 0.375124454498291 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+57 0.37110352516174316 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+58 0.5947055816650391 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, ULInformationTransfer, SecurityModeCommand, SecurityModeComplete" Benign
+59 0.8943753242492676 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest" Benign
+60 14.904377698898315 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, DeregistrationrequestUEoriginating" Benign
+61 0.44045042991638184 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest" Benign
+62 0.0003859996795654297 "RRCSetupRequest, RRCSetup" Benign
+63 0.0002872943878173828 "RRCSetupRequest, RRCSetup" Benign
+64 0.9893088340759277 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest" Benign
+65 0.6347651481628418 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest" Benign
+66 0.36915040016174316 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+67 0.40955400466918945 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+68 0.36538243293762207 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+69 0.3693828582763672 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+70 0.3852381706237793 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+71 0.36120128631591797 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+72 0.3811674118041992 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+73 0.35712599754333496 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+74 0.360990047454834 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+75 0.39299654960632324 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+76 0.0003788471221923828 "RRCSetupRequest, RRCSetup" Benign
+77 0.0003688335418701172 "RRCSetupRequest, RRCSetup" Benign
+78 0.0003864765167236328 "RRCSetupRequest, RRCSetup" Benign
+79 0.00036406517028808594 "RRCSetupRequest, RRCSetup" Benign
+80 0.00039696693420410156 "RRCSetupRequest, RRCSetup" Benign
+81 0.00039196014404296875 "RRCSetupRequest, RRCSetup" Benign
+82 1.6703824996948242 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, ULInformationTransfer, SecurityModeCommand, SecurityModeComplete" Benign
+83 0.00038170814514160156 "RRCSetupRequest, RRCSetup" Benign
+84 0.0003826618194580078 "RRCSetupRequest, RRCSetup" Benign
+85 0.00037932395935058594 "RRCSetupRequest, RRCSetup" Benign
+86 0.000408172607421875 "RRCSetupRequest, RRCSetup" Benign
+87 0.0003790855407714844 "RRCSetupRequest, RRCSetup" Benign
+88 0.00045752525329589844 "RRCSetupRequest, RRCSetup" Benign
+89 1.5643677711486816 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, ULInformationTransfer, SecurityModeCommand, SecurityModeComplete" Benign
+90 0.29524803161621094 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+91 0.294461727142334 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+92 0.30666518211364746 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+93 0.3121044635772705 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+94 0.3372790813446045 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+95 0.4319157600402832 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+96 0.3661816120147705 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+97 0.37431955337524414 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+98 0.3462536334991455 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+99 0.3701364994049072 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+100 0.3580641746520996 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+101 0.3540492057800293 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+102 0.3659381866455078 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+103 0.3778984546661377 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+104 0.36977195739746094 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+105 0.0003924369812011719 "RRCSetupRequest, RRCSetup" Benign
+106 0.0003788471221923828 "RRCSetupRequest, RRCSetup" Benign
+107 0.00038242340087890625 "RRCSetupRequest, RRCSetup" Benign
+108 0.0003871917724609375 "RRCSetupRequest, RRCSetup" Benign
+109 0.00036525726318359375 "RRCSetupRequest, RRCSetup" Benign
+110 1.4489538669586182 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+111 0.0003910064697265625 "RRCSetupRequest, RRCSetup" Benign
+112 0.00038623809814453125 "RRCSetupRequest, RRCSetup" Benign
+113 0.0003631114959716797 "RRCSetupRequest, RRCSetup" Benign
+114 0.000362396240234375 "RRCSetupRequest, RRCSetup" Benign
+115 2.1250832080841064 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Identityrequest, Identityresponse, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+116 0.0002739429473876953 "RRCSetupRequest, RRCSetup" Benign
+117 0.00026726722717285156 "RRCSetupRequest, RRCSetup" Benign
+118 0.00026488304138183594 "RRCSetupRequest, RRCSetup" Benign
+119 0.0002663135528564453 "RRCSetupRequest, RRCSetup" Benign
+120 0.0003829002380371094 "RRCSetupRequest, RRCSetup" Benign
+121 0.00038123130798339844 "RRCSetupRequest, RRCSetup" Benign
+122 0.0003726482391357422 "RRCSetupRequest, RRCSetup" Benign
+123 0.00042319297790527344 "RRCSetupRequest, RRCSetup" Benign
+124 0.0003712177276611328 "RRCSetupRequest, RRCSetup" Benign
+125 0.0003800392150878906 "RRCSetupRequest, RRCSetup" Benign
+126 0.00027561187744140625 "RRCSetupRequest, RRCSetup" Benign
+127 0.00026345252990722656 "RRCSetupRequest, RRCSetup" Benign
+128 0.0002791881561279297 "RRCSetupRequest, RRCSetup" Benign
+129 0.0002827644348144531 "RRCSetupRequest, RRCSetup" Benign
+130 0.0002665519714355469 "RRCSetupRequest, RRCSetup" Benign
+131 0.2937448024749756 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Benign
+132 0.2959725856781006 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Attack
+133 0.0 RRCSetupRequest Attack
+134 0.2961690425872803 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Attack
+135 0.0 RRCSetupRequest Attack
+136 0.29198455810546875 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeComplete" Attack
+137 0.0 RRCSetupRequest Attack
+138 0.03990030288696289 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest" Attack
+139 0.10074520111083984 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Identityrequest, Identityresponse, Authenticationrequest, Authenticationresponse, Registrationreject" Attack
+140 0.041674137115478516 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest" Attack
+141 0.040370941162109375 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest" Attack
+142 0.05957984924316406 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest" Attack
+143 0.07126069068908691 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand" Attack
+144 0.00044465065002441406 "RRCSetupRequest, RRCSetup" Attack
+145 0.3080282211303711 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Authenticationresponse, Securitymodecommand, Securitymodecomplete, SecurityModeCommand, SecurityModeFailure, UECapabilityEnquiry" Attack
+146 0.04157686233520508 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest" Attack
+147 0.06854987144470215 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest" Attack
+148 0.07415270805358887 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest, Identityresponse" Attack
+149 0.047109127044677734 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest" Attack
+150 0.046981096267700195 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest" Attack
+151 0.04700589179992676 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest" Attack
+152 0.047003984451293945 "RRCSetupRequest, RRCSetup, RRCSetupComplete, Registrationrequest, Authenticationrequest" Attack
+153 0.0019040107727050781 "RRCSetupRequest, RRCSetup" Attack

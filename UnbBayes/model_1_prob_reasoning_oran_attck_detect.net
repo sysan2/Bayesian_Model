@@ -1,0 +1,165 @@
+net
+{
+     node_size = (0 0);
+     name = "New BN";
+     tree = "(C1,C2,C3,C4,C5,C6,C7,C9,C10,C11,C12,C13,C14,C15,C16,C17,C18,C19)";
+     UnBBayes_Color_Probabilistic_Description = "-256";
+     UnBBayes_Color_Probabilistic_Explanation = "-16711936";
+}
+
+node BS_DoS_Attack
+{
+     label = "C5";
+     position = (1006 23);
+     states = ("True" "False");
+}
+
+node System_Overload
+{
+     label = "C6";
+     position = (1040 259);
+     states = ("True" "False");
+}
+
+node BS_Resource_Depletion_or_DoS
+{
+     label = "C7";
+     position = (1004 369);
+     states = ("True" "False");
+}
+
+node Unusual_Message_Sequence
+{
+     label = "C9";
+     position = (187 278);
+     states = ("True" "False");
+}
+
+node MiTM_Attack
+{
+     label = "C10";
+     position = (403 4);
+     states = ("True" "False");
+}
+
+node Subscriber_to_BS_data_Encryption
+{
+     label = "C11";
+     position = (408 280);
+     states = ("Encrypted" "Not_Encrypted");
+}
+
+node Register_and_authentication
+{
+     label = "C14";
+     position = (628 26);
+     states = ("True" "False");
+}
+
+node Security_Setup_Completion
+{
+     label = "C15";
+     position = (647 276);
+     states = ("True" "False");
+}
+
+node Secure_Data_Transfer
+{
+     label = "C16";
+     position = (661 363);
+     states = ("True" "False");
+}
+
+node Number_of_Setup_Request
+{
+     label = "C17";
+     position = (1016 154);
+     states = ("High_Request" "Low_Request");
+}
+
+node Time_of_day
+{
+     label = "C18";
+     position = (1184 29);
+     states = ("Busy_hours" "Rest_of_the_day");
+}
+
+node Malicious_Subscriber
+{
+     label = "C1";
+     position = (832 23);
+     states = ("True" "False");
+}
+
+potential (BS_DoS_Attack | Malicious_Subscriber)
+{
+ data = (( 0.9 0.1 )
+( 1.0E-4 0.9999 ));
+}
+
+potential (System_Overload | Number_of_Setup_Request)
+{
+ data = (( 0.99 0.01 )
+( 0.89 0.11 ));
+}
+
+potential (BS_Resource_Depletion_or_DoS | System_Overload)
+{
+ data = (( 0.8995 0.1005 )
+( 0.01 0.99 ));
+}
+
+potential (Unusual_Message_Sequence | MiTM_Attack)
+{
+ data = (( 0.47974998 0.52025 )
+( 0.47974998 0.52025 ));
+}
+
+potential (MiTM_Attack | Subscriber_to_BS_data_Encryption)
+{
+ data = (( 0.001 0.999 )
+( 0.2 0.8 ));
+}
+
+potential (Subscriber_to_BS_data_Encryption | Security_Setup_Completion)
+{
+ data = (( 0.7 0.3 )
+( 0.1 0.9 ));
+}
+
+potential (Register_and_authentication)
+{
+ data = ( 0.505 0.495 );
+}
+
+potential (Security_Setup_Completion | Register_and_authentication)
+{
+ data = (( 0.7 0.3 )
+( 0.001 0.999 ));
+}
+
+potential (Secure_Data_Transfer | Security_Setup_Completion)
+{
+ data = (( 0.999 0.001 )
+( 0.7 0.3 ));
+}
+
+potential (Number_of_Setup_Request | BS_DoS_Attack Time_of_day)
+{
+ data = ((( 0.99 0.01 )
+( 0.99 0.01 ))
+(( 0.75 0.25 )
+( 0.1 0.9 )));
+}
+
+potential (Time_of_day)
+{
+ data = ( 0.4 0.6 );
+}
+
+potential (Malicious_Subscriber | Register_and_authentication)
+{
+ data = (( 0.50450003 0.4955 )
+( 0.50450003 0.4955 ));
+}
+
